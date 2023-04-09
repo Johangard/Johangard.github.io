@@ -1,0 +1,21 @@
+/*
+ * Custom CSS
+ */
+
+:root {
+  --bs-body-bg: var(--bs-gray-100);
+}
+
+body {
+  font-family: 'Special Elite', cursive;
+}
+
+
+footer{
+  background-color: gray;
+  color: white;
+  text-align: center;
+  width: 100%;
+  bottom: 0px;
+  padding: 20px;
+}
