@@ -7,7 +7,7 @@
 }
 
 body, html {
-  font-family: 'Special Elite', cursive;
+  font-family: 'Lora', serif;
   margin: 0;
   height: 100%;
 }
@@ -24,6 +24,10 @@ footer{
   bottom: 0;
   margin: 0%;
  
+}
+.little{
+  position: absolute;
+  bottom: 0;
 }
 
 .profileimg {
