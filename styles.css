@@ -6,8 +6,10 @@
   --bs-body-bg: var(--bs-gray-100);
 }
 
-body {
+body, html {
   font-family: 'Special Elite', cursive;
+  margin: 0;
+  height: 100%;
 }
 
 
@@ -15,7 +17,42 @@ footer{
   background-color: gray;
   color: white;
   text-align: center;
+
   width: 100%;
-  bottom: 0px;
   padding: 20px;
+  
+  bottom: 0;
+  margin: 0%;
+ 
+}
+
+.profileimg {
+    width: 200px;
+}
+
+h5{
+  
+  color: #7e2522;
+font-weight: bold;
+
+}
+
+.poloroid{
+    color: #7e2522;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.moreimg {
+    height: auto;
+    max-width: 100%;
+}
+
+.rollingimg{
+    height: 70vh; 
+    
+
 }
