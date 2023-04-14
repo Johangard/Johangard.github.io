@@ -1,5 +1,3 @@
-# af-landingpage
- Antika Fönster Sverige AB landing page
+# Antika Fönster Sverige AB landing page
 
-
-test
+![logo](./img/logo.jpg)
