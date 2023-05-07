@@ -1,0 +1,35 @@
+html, body {
+    font-family: 'Lora', serif;
+}
+
+.falured{
+    background-color: #7e2522;
+    color: white;
+}
+.btn-falured{
+    background-color: #7e2522;
+    color: white;
+}
+
+.btn-falured:hover{
+    background-color: #ae7573;
+    color: black;
+}
+
+.falured a {
+    color: white;
+}
+
+
+.poloroid{
+    color: #7e2522;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

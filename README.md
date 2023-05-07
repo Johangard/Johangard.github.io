@@ -3,4 +3,4 @@
 [antikafonster.se](https://antikafonster.se/)
 
 --- 
-![logo](./img/logo.jpg)
+![logo](./assets/img/logo.jpg)
