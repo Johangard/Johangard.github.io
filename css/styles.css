@@ -21,6 +21,11 @@ html, body {
 }
 
 
+.calltoaction {
+    border-color: #7e2522;
+    background-color: white !important;
+}
+
 .poloroid{
     color: #7e2522;
     border: 1px solid #ddd;
